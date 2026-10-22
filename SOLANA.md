@@ -1,6 +1,6 @@
 👾 0x3ric3mmanu3l
 
-Full-Stack Web3 Developer | EVM • Solana • Rust
+Full-Stack Web3 Developer | EVM • Solidity • Solana • Rust
 
 Building decentralized applications, smart contracts, and blockchain-powered products.
 
